@@ -1,0 +1,12 @@
+site_name: ticketiquette.com
+site_url: https://ticketiquette.com/
+hide:
+  - title
+  - navigation
+  - toc
+  - path
+theme: 
+  name: simple-blog
+markdown_extensions:
+    - toc:
+        permalink: '_'
